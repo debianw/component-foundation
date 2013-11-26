@@ -8,9 +8,6 @@
     "index.js",
     "vendor/custom.modernizr.js"
   ],
-  "styles": [
-    "style.css"
-  ],
   "files": [
     "scss/foundation.scss",
     "scss/foundation/_functions.scss",
