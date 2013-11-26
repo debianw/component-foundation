@@ -1,7 +1,10 @@
 component-foundation
 ====================
 
-Component foundation
+Component foundation (scss and js files)
+
+* Import scss files into your components.
+* A grunt configuration needs to be done on your application in order to compile the scss files.
 
 ## Installation
 
